@@ -1,0 +1,5 @@
+== MY README
+
+Yay! Blog!
+
+Playing with Rails 4.2 vanilla from the bottom up to see what's new. My last project was 10,000+ lines of code where almost everything was customized. Back to the basics!
